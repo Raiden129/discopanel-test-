@@ -53,6 +53,6 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
-		"monaco-editor": "^0.52.2"
+		"monaco-editor": "^0.53.0"
 	}
 }
